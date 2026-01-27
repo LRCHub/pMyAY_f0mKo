@@ -1,4 +1,4 @@
-# LGYankees – ボクでいいよね ～愛のうた～ feat. LGMonkees
+# LGYankees – ボクでいいよね ～愛のうた～ feat. LGMonkees（feat. LGMonkees）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
