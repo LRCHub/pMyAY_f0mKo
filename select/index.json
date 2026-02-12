@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ボクでいいよね ～愛のうた～ feat. LGMonkees（feat. LGMonkees）",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-12T14:45:01.684816Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ボクでいいよね ～愛のうた～ feat. LGMonkees - Boku de Ii yo ne -Ai no Uta- feat. LGMonkees (feat. LGMonkees)",
+      "artist": "LGYankees",
+      "has_synced": true,
+      "path": "select/01_ボクでいいよね_~愛のうた~_feat._LGMonkees_-_Boku_de_Ii_yo_ne_-Ai_no_Uta-_feat._LGMonkees_(f_LGYankees.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ボクでいいよね ～愛のうた～ feat. LGMonkees",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/02_ボクでいいよね_~愛のうた~_feat._LGMonkees_LGYankees.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボクでいいよね ～愛のうた～ feat_ LGMonkees",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_ボクでいいよね_~愛のうた~_feat__LGMonkees_LGYankees.txt"
+    }
+  ]
+}
